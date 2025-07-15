@@ -18,16 +18,6 @@ This project demonstrates how to build a mini ETL (Extract, Transform, Load) pip
 - Jupyter Notebook
 - Git & GitHub
 
-## 📁 Project Structure
-
-books-data-pipeline/
-│
-├── data/ # CSV scraped data
-├── scripts/ # Python scripts for scraping and database loading
-├── schema/ # ERD diagram and schema visuals
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
 ## 🚀 How to Run
 
 1. Clone the repo  
