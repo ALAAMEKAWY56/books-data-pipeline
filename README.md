@@ -19,13 +19,14 @@ This project demonstrates how to build a mini ETL (Extract, Transform, Load) pip
 - Git & GitHub
 
 ## 📁 Project Structure
+
 books-data-pipeline/
 │
 ├── data/ # CSV scraped data
-├── scripts/ # Python scripts for scraping and DB
-├── schema/ # ERD diagram
-├── README.md
-└── requirements.txt
+├── scripts/ # Python scripts for scraping and database loading
+├── schema/ # ERD diagram and schema visuals
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
 
 ## 🚀 How to Run
 
