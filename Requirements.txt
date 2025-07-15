@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+pandas
+mysql-connector-python
+plotly
+jupyter
