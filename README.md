@@ -22,8 +22,8 @@ This project demonstrates how to build a mini ETL (Extract, Transform, Load) pip
 
 1. Clone the repo  
 2. Install requirements: `pip install -r requirements.txt`  
-3. Run `web_scraper.py` to extract data  
-4. Run `db_loader.py` to create tables and load into MySQL  
+3. Run `Scraping.ipynb` to extract data  
+4. Run `Books_DataBase_Project.ipynb` to create tables and load into MySQL  
 
 ## 🧠 What I Learned
 
